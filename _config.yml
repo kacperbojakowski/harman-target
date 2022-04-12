@@ -1,9 +1,9 @@
 name: Kacper Bojakowski
 title: Harman Target EQ Guide
 description: Guide on how to equalize headphones towards the Harman target curve
-remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
+remote_theme: kacperbojakowski/just-the-docs
 
-color_scheme: vistula
+color_scheme: light
 
 aux_links:
   "Source repository on GitHub":
