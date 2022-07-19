@@ -27,4 +27,4 @@ nav_order: 1
 
 ---
 
-*Next topic: [Troubleshooting](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/#troubleshooting)*
+*Next topic: [Troubleshooting](../troubleshooting/index.md)*

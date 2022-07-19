@@ -12,4 +12,4 @@ Equalization is the process of adjusting volumes of different frequency bands in
 
 ---
 
-*Next topic: [Why would I want to equalize?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/why-equalize/)*
+*Next: [Why would I want to equalize?](../why-equalize/index.md)*

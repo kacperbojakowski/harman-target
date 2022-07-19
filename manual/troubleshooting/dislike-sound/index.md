@@ -12,4 +12,4 @@ That's OK! Sound signature is something subjective. Some people just don't like 
 
 ---
 
-*Next topic: [How can I make this work on a Mac?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/work-mac/)*
+*Next: [How can I make this work on a Mac?](../work-mac/index.md)*

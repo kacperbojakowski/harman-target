@@ -12,4 +12,4 @@ Make sure you set Snap to dB gain to 0.1, as instructed in step 10 of the guide.
 
 ---
 
-*Next topic: [I can’t hear the difference when I click “ON/OFF”.](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/difference-click/)*
+*Next: [I can’t hear the difference when I click “ON/OFF”.](../difference-click/index.md)*

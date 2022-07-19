@@ -12,4 +12,4 @@ If you are not a sound engineer and you don't have access to professional measur
 
 ---
 
-*Next section: [Manual](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/)*
+*Next section: [Manual](../../../manual/index.md)*

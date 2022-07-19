@@ -12,4 +12,4 @@ Make sure your music player uses the same output (drivers/ device) as your APO e
 
 ---
 
-*Next topic: [The volume seems lower after equalization.](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/volume-lower/)*
+*Next: [The volume seems lower after equalization.](../volume-lower/index.md)*

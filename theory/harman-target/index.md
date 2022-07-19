@@ -17,4 +17,4 @@ Unlike some other response curves, Harman target is not "flat", i.e. it doesn't 
 
 ---
 
-*Next topic: [Equalization](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/)*
+*Next topic: [Equalization](../equalization/index.md)*

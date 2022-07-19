@@ -30,4 +30,4 @@ Here is a list of technical terms and abbreviations (in parentheses) that appear
 
 ---
 
-*Next section: [Links](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/links/)*
+*Next section: [Links](../links/index.md)*

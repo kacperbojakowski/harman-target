@@ -13,25 +13,25 @@ In this guide, you will learn how to improve the sound of your headphones for fr
 ## Table of contents
 
 * <a style="pointer-events: none;" href="https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/" alt="Introduction">Introduction</a> ← You are here!
-* [Theory](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/)
-    * [Harman target](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/harman-target/)
-    * [Equalization](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/)
-       * [What is equalization?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/what-equalization/)
-       * [Why would I want to equalize?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/why-equalize/)
-       * [Why don't headphones come already equalized?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/why-produce/)
-       * [Won't equalization distort the sound?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/will-distort/)
-       * [How to do this properly?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/how-properly/)
-* [Manual](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/)
-    * [**Step-by-step guide**](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/step-by-step-guide/)
-    * [Troubleshooting](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/)
-       * [I can only set values with accuracy to 0.5.](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/values-accuracy/)
-       * [I can't hear the difference when I click "ON/OFF".](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/difference-click/)
-       * [The volume seems lower after equalization.](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/volume-lower/)
-       * [I don't like the sound after equalization.](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/dislike-sound/)
-       * [How can I make this work on a Mac?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/work-mac/)
-* [Glossary](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/glossary/)
-* [Links](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/links/)
+* [Theory](theory/index.md)
+    * [Harman target](theory/harman-target/index.md)
+    * [Equalization](theory/equalization/index.md)
+       * [What is equalization?](theory/equalization/what-equalization/index.md)
+       * [Why would I want to equalize?](theory/equalization/why-equalize/index.md)
+       * [Why don't headphones come already equalized?](theory/equalization/why-produce/index.md)
+       * [Won't equalization distort the sound?](theory/equalization/will-distort/index.md)
+       * [How to do this properly?](theory/equalization/how-properly/index.md)
+* [Manual](manual/index.md)
+    * [**Step-by-step guide**](manual/step-by-step-guide/index.md)
+    * [Troubleshooting](manual/troubleshooting/index.md)
+       * [I can only set values with accuracy to 0.5.](manual/troubleshooting/values-accuracy/index.md)
+       * [I can't hear the difference when I click "ON/OFF".](manual/troubleshooting/difference-click/index.md)
+       * [The volume seems lower after equalization.](manual/troubleshooting/volume-lower/index.md)
+       * [I don't like the sound after equalization.](manual/troubleshooting/dislike-sound/index.md)
+       * [How can I make this work on a Mac?](manual/troubleshooting/work-mac/index.md)
+* [Glossary](glossary/index.md)
+* [Links](links/index.md)
 
 ---
 
-*Next section: [Theory](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/)*
+*Next section: [Theory](theory/index.md)*

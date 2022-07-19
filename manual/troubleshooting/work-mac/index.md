@@ -12,4 +12,4 @@ You can't, unless you use some sort of Windows virtualization. Equalizer APO is 
 
 ---
 
-*Next section: [Glossary](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/glossary/)*
+*Next section: [Glossary](../../../glossary/index.md)*

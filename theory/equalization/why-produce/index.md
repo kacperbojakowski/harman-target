@@ -12,4 +12,4 @@ They probably would if they could – if only it were that simple. There's a hos
 
 ---
 
-*Next topic: [Won't equalization distort the sound?](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/theory/Equalization/will-distort/)*
+*Next: [Won't equalization distort the sound?](../will-distort/index.md)*

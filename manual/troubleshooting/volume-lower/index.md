@@ -12,4 +12,4 @@ This is completetly natural. Ideally, equalization should not emphasize a certai
 
 ---
 
-*Next topic: [I don't like the sound after equalization.](https://komunikacjatechnicznavistula.github.io/kacper-bojakowski/manual/troubleshooting/dislike-sound/)*
+*Next: [I don't like the sound after equalization.](../dislike-sound/index.md)*
